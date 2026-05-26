@@ -84,9 +84,6 @@ while True:
 
             print(f"{name} : {result}")
 
-            # save result history
-            with open("results.txt", "a") as file:
-                file.write(f"{name} : {result}\n")
 
         else:
             print("Student not found!")

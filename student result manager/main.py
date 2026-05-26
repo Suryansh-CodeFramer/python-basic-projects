@@ -1,4 +1,15 @@
 # student result manager
+
+# conditional - logic
+# loops- menu system
+# dictionary- to store data
+#
+# Teacher:
+# 1-add student
+# 2- view all students
+# 3- check result
+# 4- exit
+
 student ={}
 
 while True:
